@@ -1,6 +1,6 @@
 # Bookface
 
-A full-stack web app inspired by the functionality of Facebook. The web app allows the user to sign up, add friends, and make a post, message and more.
+A full-stack web app inspired by the functionality of Facebook. The web app allows the user to sign up, add friends, make and interact with posts, send messages and more. Made by team smiley face (Kerri, Jason, Muhammad, Yohann, Jess, Phil, Adam)
 
 **Visit the website [here.](https://stormy-beach-31437.herokuapp.com/)**
 
@@ -72,3 +72,14 @@ rails server
 - Ruby on Rails
 - PostgreSQL
 - RSpec/Capybara
+
+
+**Improvements, bugs, future features:**
+
+- 'EDIT POST' form needs updating
+- Multiple friend requests (?) 
+- Picture previews are sometimes full size - scale down. 
+- Can we crop non-square avatar pics instead of squashing them?
+- Chat should refresh in real-time. 
+- Ensure authentication cannot route to index page early
+
